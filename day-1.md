@@ -1,4 +1,3 @@
-# これはMarkdownのヘッダーです
 # Daily Learning
 ## Morning Planning
 
